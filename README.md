@@ -29,7 +29,7 @@ The README was written from the repository contents, including its manifest file
 
 ## Project Structure
 
-`	ext
+```text
 .
 |-- app.jsx
 |-- data.js
@@ -44,13 +44,13 @@ The README was written from the repository contents, including its manifest file
 |-- uploads/pasted-1779813557395-0.png
 |-- uploads/pasted-1779813563283-0.png
 |-- uploads/pasted-1779814801499-0.png
-`
+```
 
 ## Setup
 
-`ash
+```bash
 Review the source files in this repository and run them with the matching local toolchain.
-`
+```
 
 ## What This Project Demonstrates
 
